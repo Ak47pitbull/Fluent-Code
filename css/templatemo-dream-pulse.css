@@ -63,6 +63,7 @@ a {
 
 .parallax-window {
   min-height: 662px;
+  backdrop-filter: blur(3px);
   background: transparent;
 }
 
